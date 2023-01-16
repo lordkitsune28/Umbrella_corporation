@@ -67,18 +67,18 @@ $(document).ready(function () {
 
         } else {
             if (user.clave === ipass.val() && user.email === iemail.val()) {
-                console.log("holi")
+                $("#directorio").attr("href", "./directorio.html");
             } else {
                 $(".alerta").html("Email o codigo de acceso es incorrecto");
                 $("#articulo").addClass("text-danger");
                 intentos = intentos + 1;
-                if (condition) {
-                    
+                if (intentos == 3) {
+                    $(".audio")[0].play();
+                    $(".container").addClass("d-none");
+                    $("#segurity").removeClass("d-none");
                 }
             }
 
-            
-            console.log(intentos)
         }
     });
 
