@@ -16,6 +16,7 @@ $(document).ready(function () {
 
     // hacer funcionar al formulario de registro
 
+    let name = $("#user");
     let remail = $("#rEmail");
     let rpass = $("#rPass");
     let pass2 = $("#pass2");
@@ -24,7 +25,7 @@ $(document).ready(function () {
 
     $(pass2).keyup(function (e) {
         usuario = {
-            email: remail.val(), clave: rpass.val()
+            user: name.val(), email: remail.val(), clave: rpass.val()
         };
         if (pass2.val() === rpass.val()) {
             $(".alerta").html("");
