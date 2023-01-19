@@ -1,0 +1,11 @@
+{
+    "virus":{
+        "nombre": "Virus Progenitor",
+        "descripcion": "El Virus Progenitor, también conocido como Virus Madre, fue el primer virus mutágeno jamás descubierto y se convirtió en la base de la investigación bio-orgánica más acertada de las armas biológicas de la Corporación Umbrella",
+        "insectos": "Estos animales no han sufrido cambios genéticos durante milenios. Quizás por eso al administrarles el virus Progenitor solo se experimentó un aumento de energía y una mayor agresividad. La posibilidad de usarlos como arma biológica está casi descartada.",
+        "anfibios": "Al inyectar el virus en una rana lo único que se observó fue que saltaba más alto y a mayor distancia y que la lengua crecía de forma desmesurada. El resultado de estos sería el Lurker en proyectos futuros y que darían paso a los Hunters. Sin embargo, no hubo pruebas de cambios en su capacidad mental. Aún más, lo que podría llamarse un apetito anormal hizo que el sujeto atacara a todos los objetos que se movían. Su utilidad como arma biológica es bastante limitada.",
+        "Mamíferos": "El virus Progenitor se mezcló con muestras de ADN de un mono y ocasionó una reproducción espontánea. El sujeto resultante era más agresivo y tenía mayor capacidad mental. El resultado de esos sería el Eliminator en proyectos futuros. Un efecto secundario fue la pérdida de visión. aunque esta se compensó con una mejor audición",
+        "precio": "$14,07",
+        "img":"$14,07"
+    }
+}
