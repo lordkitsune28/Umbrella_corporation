@@ -1,11 +1,19 @@
 {
-    "virus":{
-        "nombre": "Virus Progenitor",
-        "descripcion": "El Virus Progenitor, también conocido como Virus Madre, fue el primer virus mutágeno jamás descubierto y se convirtió en la base de la investigación bio-orgánica más acertada de las armas biológicas de la Corporación Umbrella",
-        "insectos": "Estos animales no han sufrido cambios genéticos durante milenios. Quizás por eso al administrarles el virus Progenitor solo se experimentó un aumento de energía y una mayor agresividad. La posibilidad de usarlos como arma biológica está casi descartada.",
-        "anfibios": "Al inyectar el virus en una rana lo único que se observó fue que saltaba más alto y a mayor distancia y que la lengua crecía de forma desmesurada. El resultado de estos sería el Lurker en proyectos futuros y que darían paso a los Hunters. Sin embargo, no hubo pruebas de cambios en su capacidad mental. Aún más, lo que podría llamarse un apetito anormal hizo que el sujeto atacara a todos los objetos que se movían. Su utilidad como arma biológica es bastante limitada.",
-        "Mamíferos": "El virus Progenitor se mezcló con muestras de ADN de un mono y ocasionó una reproducción espontánea. El sujeto resultante era más agresivo y tenía mayor capacidad mental. El resultado de esos sería el Eliminator en proyectos futuros. Un efecto secundario fue la pérdida de visión. aunque esta se compensó con una mejor audición",
-        "precio": "$14,07",
-        "img":"$14,07"
-    }
+    "virus": [
+        {
+            "nombre": "Virus Progenitor",
+            "descripcion": "El Virus Progenitor, también conocido como Virus Madre, fue el primer virus mutágeno jamás descubierto y se convirtió en la base de la investigación bio-orgánica más acertada de las armas biológicas de la Corporación Umbrella",
+            "efectos": "El virus Progenitor se mezcló con muestras de ADN de un mono y ocasionó una reproducción espontánea. El sujeto resultante era más agresivo y tenía mayor capacidad mental. El resultado de esos sería el Eliminator en proyectos futuros. Un efecto secundario fue la pérdida de visión. aunque esta se compensó con una mejor audición",
+            "precio": "$14,07",
+            "img": "https://res.cloudinary.com/donoutoby/image/upload/v1674090337/virus_progenitor_b3apvb.webp"
+        },
+        {
+            "nombre": "Virus Uroboros",
+            "descripcion": "Uroboros es una avanzada cepa del virus Progenitor y otros virus. Es un arma bio-orgánica basada en el virus Progenitor. Una especie de piedra filosofal de la evolución que determinará, por medio del ADN, quien pasará a la fase siguiente.",
+            "efectos":"En su forma original, Uroboros era demasiado letal para cualquier ser vivo. Sólo con la introducción de anticuerpos del virus T, Jill Valentine pudo amplificar rápidamente el control. De modo que dejó un porcentaje del virus en su interior, latente. Uroboros una vez entra en contacto con las células de un organismo y las infecta, inserta sus genes en el genoma del huésped, en un intento de fusión con el anfitrión. Para aquellos cuya secuencia genética es compatible con el Uroboros, la combinación es exitosa, otorgándole habilidades sobrehumanas. Aquellos cuyos genomas son incompatibles con la asimilación genética del virus, sus células son superadas por Uroboros. Los tejidos que resulta infectados, mutan en tentaculos, que absorben el cuerpo del anfitrión y cualquier otra materia orgánica que pueda alcanzar. Estos tentáculos se mantienen unidos por órganos similares a pústulas amarillas, que son su único punto débil.",
+            "precio":"$18,37",
+            "img":"https://res.cloudinary.com/donoutoby/image/upload/v1674093248/virus_uroboros_gxpuwk.webp"
+        },
+
+    ]
 }
